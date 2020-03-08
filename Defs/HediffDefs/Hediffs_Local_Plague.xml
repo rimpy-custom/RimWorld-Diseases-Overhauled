@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>Plague</defName>
 		<label>plague</label>
+		<description>Can cause the growth of benign tumors and may encapsulate itself in your pawns bones, causing additional benign growths or a new outbreak of the disease at a future time.</description>
 		<makesSickThought>true</makesSickThought>
 		<lethalSeverity>1</lethalSeverity>
 		<tendable>true</tendable>
