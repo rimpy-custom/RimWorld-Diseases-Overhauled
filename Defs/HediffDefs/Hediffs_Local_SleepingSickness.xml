@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>SleepingSickness</defName>
 		<label>sleeping sickness</label>
+		<description>Can cause a long-term condition that finally leads to a coma. The disease may also cause secondary damage to your pawns eyes or brain.</description>
 		<lethalSeverity>1</lethalSeverity>
 		<makesSickThought>true</makesSickThought>
 		<tendable>true</tendable>
