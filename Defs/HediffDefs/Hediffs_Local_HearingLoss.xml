@@ -4,7 +4,8 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>HearingLoss</defName>
 		<label>hearing loss</label>
-    	<cureAllAtOnceIfCuredByItem>true</cureAllAtOnceIfCuredByItem>
+		<description>Slowly advance over time and is case of hearing one day and be deaf the next one.</description>
+    		<cureAllAtOnceIfCuredByItem>true</cureAllAtOnceIfCuredByItem>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.001</initialSeverity>
 		<comps>
