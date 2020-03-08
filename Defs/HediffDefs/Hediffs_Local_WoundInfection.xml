@@ -4,7 +4,8 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>WoundInfection</defName>
 		<label>infection</label>
-    	<labelNoun>an infection</labelNoun>
+    		<labelNoun>an infection</labelNoun>
+		<description>Can cause a severe sepsis, that is hard to cure. The heavier the infection, the higher the chance for a sepsis. At later stages of the infection, other bodyparts, like pawn internal organs or brain, may take secondary damage, which again can cause future problems. At the latest stages, they may lapse into a coma.</description>
 		<makesSickThought>true</makesSickThought>
 		<lethalSeverity>1</lethalSeverity>
 		<tendable>true</tendable>
