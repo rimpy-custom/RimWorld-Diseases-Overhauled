@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>Malaria</defName>
 		<label>malaria (P. rimparum)</label>
+		<description>May cause liver inflammations, secondary liver damage, coma and/or encapsulate itself into your pawns livers.</description>
 		<lethalSeverity>1</lethalSeverity>
 		<makesSickThought>true</makesSickThought>
 		<scenarioCanAdd>true</scenarioCanAdd>
